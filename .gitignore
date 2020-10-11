@@ -1,0 +1,24 @@
+.idea
+test.py
+
+.DS_Store
+
+conf/config_*
+
+preprocess/cn_sp
+preprocess/tr_sp
+preprocess/wiki_sp
+
+saved/*
+
+generate_cn_en_baseline.py
+
+*.pyc
+*.ipynb
+*.sh
+
+*.xls
+*.xlsx
+
+# DB connection
+db.config
