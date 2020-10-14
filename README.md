@@ -1,7 +1,5 @@
 # FTRLIM
 
-[TOC]
-
 ## Introduction
 
 Code for **FTRLIM: Distributed Instance Matching Frameworkfor Large-Scale Knowledge Graphs**
